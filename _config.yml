@@ -1,13 +1,13 @@
 # Site settings
-name: Autitopia
+name: Autopia
 email: bebincaa@163.com
 author: Bebinca
 url: https://bebinca.github.io/
 # resume_site: http://www.hifreud.com/Resume.io/
 github: https://github.com/bebinca/
 baseurl: ''
-description: Welcome to Autitopia.
-meta_description: Bebinca;autitopia
+description: Welcome to Autopia.
+meta_description: Bebinca;autopia
 motto: Sitting with the poison takes away the pain.
 banner: Private place to write.
 
