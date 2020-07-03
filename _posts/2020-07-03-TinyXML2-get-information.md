@@ -2,8 +2,7 @@
 layout: post
 title:  TinyXML2 获取信息方面的使用
 date:   2020-07-03 08:01:00 +0800
-categories: oop
-tag: TinyXML2
+categories: TinyXML2
 ---
 
 * content
