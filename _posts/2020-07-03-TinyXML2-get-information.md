@@ -7,7 +7,9 @@ categories: TinyXML2
 
 * content
 {:toc}
-主要是为了oop大程学一下方便记录。
+主要是为了oop大程学一下方便记录……
+
+（可能用不到就删了）
 
 https://www.cnblogs.com/happykoukou/p/6307257.html
 
