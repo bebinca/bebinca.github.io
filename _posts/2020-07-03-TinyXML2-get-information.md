@@ -8,8 +8,11 @@ tag: TinyXML2
 
 * content
 {:toc}
-
 # TinyXML2 获取信息方面的使用
+
+主要是为了oop大程学一下方便记录。
+
+https://www.cnblogs.com/happykoukou/p/6307257.html
 
 用户数据表设计如下：
 
